@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTextMain">#22ab38</color>
+    <color name="colorTextTile">#474A47</color>
+    <color name="colorTextWhite">#fff</color>
+    <color name="colorTextBakGrdDark">#F4F4F4</color>
+    <color name="colorTextDark">#6B6B6B</color>
+    <color name="colorTextBlak">#000</color>
+    <color name="colorTextPrice">#e3734f</color>
+    <color name="colorMianBackground">#116B6B6B</color>
+    <color name="colorSplitLine">#226B6B6B</color>
+    <color name="colorSearch">#556B6B6B</color>
+    <color name="colorTextBack">#FFFD7E01</color>
+    <color name="colorTextYellowBack">#FFFDAD13</color>
+</resources>
